@@ -1,0 +1,6 @@
+{
+  "name": "गोरखपुर बस स्टॉप 3D काउंटडाउन (Gorakhpur Bus Stop 3D)",
+  "description": "एक डायनेमिक 3D बस स्टॉप जहाँ 5 दोस्त (कुणाल, आदित्य, प्रांजल, करण और पिंकू) अपने बैग के साथ गोरखपुर एक्सप्रेस बस (5 तारीख दोपहर 2:00 बजे) का लाइव काउंटडाउन में इंतज़ार कर रहे हैं।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
